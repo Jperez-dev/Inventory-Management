@@ -1,0 +1,15 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+
+# Ignore other common files and directories
+.DS_Store
+*.log
+*.swp
+.env
+.venv/
+venv/
+node_modules/
+dist/
+build/
+.vscode/
